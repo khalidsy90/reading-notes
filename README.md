@@ -7,6 +7,6 @@
 
 |Subject Name|Link|
 |:-------------:|:----:|
-|lab01|[link](https://github.com/khalidsy90/reading-notes/blob/main/lab01.md)
-|read01|[link](https://github.com/khalidsy90/reading-notes/blob/main/read01)|
+|lab01|[link](lab01.md)
+|read01|[link](read01)|
   
